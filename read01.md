@@ -32,9 +32,9 @@
 
 # Is Markdown better than HTML ? 
 
-## well it is easier to write in it than to write inHTML, and it's easier for most humans to read Markdown source than HTML source ,It's worth learning the basic Markdown syntax to achive a faster way of building your website .
+### well it is easier to write in it than to write inHTML, and it's easier for most humans to read Markdown source than HTML source ,It's worth learning the basic Markdown syntax to achive a faster way of building your website .
 
 # What is GitHub and why does it use Markdown ?
 
-## GetHub is a website for developers and programmers used to work on coding. The primary benefit of GitHub is its version Hub is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows us for editing our websites whenever we want specially when we are working with teams , so the changes will not make any problems when we come back to it later , and the reason why it uses Markdown is because of the simplicity of it compared to HTML
+### GetHub is a website for developers and programmers used to work on coding. The primary benefit of GitHub is its version Hub is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows us for editing our websites whenever we want specially when we are working with teams , so the changes will not make any problems when we come back to it later , and the reason why it uses Markdown is because of the simplicity of it compared to HTML
 ![logo](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
