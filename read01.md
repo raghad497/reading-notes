@@ -1,5 +1,5 @@
 # Mastering Markdown
-### First of all Markdown is a great way to style and design your website as wanted , and of course it's much easier to deal with than HTML , with markdown you can make the letters bold , Italic ,and make lists without any troubles ,etc...
+### First of all Markdown is a great way to style and design your website as wanted , and of course it's much easier to deal with than HTML , with markdown you can make the letters bold , Italic ,and make lists without any troubles , etc...
 
 ## It's also fun to know that Markdown is used in so much websites such as : 
 
