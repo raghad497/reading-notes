@@ -8,5 +8,7 @@
 
 | **My Files**      | **Content** |
 | ----------- | ----------- |
-| [Growth](https://raghad497.github.io/reading-notes/Growth)      | * a full experience about the Growthmind*       |
+| [Growth](https://raghad497.github.io/reading-notes/Growth)      | *a full experience about the Growthmind*       |
 | [read01](https://raghad497.github.io/reading-notes/read01)   | *learn some examples about the Markdown*        |
+| [read02](https://raghad497.github.io/reading-notes/read02)      | *talk about Git and Github* |
+
