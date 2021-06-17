@@ -13,3 +13,4 @@
 | [read02](https://raghad497.github.io/reading-notes/read02)      | *talk about Git and Github* |
 | [read03](https://raghad497.github.io/reading-notes/read03)      | *talk about Wireframing , HTML and Semantics* |
 | [read04](https://raghad497.github.io/reading-notes/read04)      | *talk about JavaScript and how to use it* |
+| [read05](https://raghad497.github.io/reading-notes/read05)      | *talk about Operation and Loops* |
