@@ -16,3 +16,4 @@
 | [read05](https://raghad497.github.io/reading-notes/read05)      | *talk about Operation and Loops* |
 | [read05](https://raghad497.github.io/reading-notes/read05)      | *talk about Operations and Loops* |
 | [read06](https://raghad497.github.io/reading-notes/read06)      | *talk about CSS* |
+| [read07](https://raghad497.github.io/reading-notes/read07)      | *talk about Functions in JS* |
