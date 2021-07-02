@@ -19,7 +19,7 @@
 | [read05](https://raghad497.github.io/reading-notes/read05)      | *talk about Operations and Loops* |
 | [read06](https://raghad497.github.io/reading-notes/read06)      | *talk about CSS* |
 | [read07](https://raghad497.github.io/reading-notes/read07)      | *talk about Functions in JS* |
-<<<<<<< HEAD
+
 
 
 
@@ -41,6 +41,3 @@
 | [class11](https://raghad497.github.io/reading-notes/class11)      | *eleventh read* |
 | [class12](https://raghad497.github.io/reading-notes/class12)      | *twelvth read* |
 | [class13](https://raghad497.github.io/reading-notes/class13)      | *thirteenth read* |
-
-=======
->>>>>>> 21d9eaeb0f561c530562b81ef2d3aba44435a16a
