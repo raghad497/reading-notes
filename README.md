@@ -11,14 +11,14 @@
 | **My Files**      | **Content** |
 | -----------       | ----------- |
 | [Growth](https://raghad497.github.io/reading-notes/Growth)      | *a full experience about the Growthmind*       |
-| [read01](https://raghad497.github.io/reading-notes/read01)      | *learn some examples about the Markdown*        |
+| [read01](https://raghad497.github.io/reading-notes/read01)   | *learn some examples about the Markdown*        |
 | [read02](https://raghad497.github.io/reading-notes/read02)      | *talk about Git and Github* |
 | [read03](https://raghad497.github.io/reading-notes/read03)      | *talk about Wireframing , HTML and Semantics* |
 | [read04](https://raghad497.github.io/reading-notes/read04)      | *talk about JavaScript and how to use it* |
 | [read05](https://raghad497.github.io/reading-notes/read05)      | *talk about Operation and Loops* |
-| [read05](https://raghad497.github.io/reading-notes/read05)      | *talk about Operations and Loops* |
 | [read06](https://raghad497.github.io/reading-notes/read06)      | *talk about CSS* |
 | [read07](https://raghad497.github.io/reading-notes/read07)      | *talk about Functions in JS* |
+
 
 
 
@@ -27,16 +27,16 @@
 
 | **My Files**      | **Content** |
 | -----------       | ----------- |
-| [class01](https://raghad497.github.io/reading-notes/class01)      | *first read*       |
-| [class02](https://raghad497.github.io/reading-notes/class02)   | *second read*        |
-| [class03](https://raghad497.github.io/reading-notes/class03)      | *third read* |
-| [class04](https://raghad497.github.io/reading-notes/class04)      | *fourth read* |
-| [class05](https://raghad497.github.io/reading-notes/class05)      | *fifth read* |
-| [class06](https://raghad497.github.io/reading-notes/class06)      | *sixth read* |
-| [class07](https://raghad497.github.io/reading-notes/class07)      | *seventh read* |
-| [class08](https://raghad497.github.io/reading-notes/class08)      | *eighth read* |
-| [class09](https://raghad497.github.io/reading-notes/class09)      | *ninth read* |
-| [class10](https://raghad497.github.io/reading-notes/class10)      | *tenth read* |
-| [class11](https://raghad497.github.io/reading-notes/class11)      | *eleventh read* |
-| [class12](https://raghad497.github.io/reading-notes/class12)      | *twelvth read* |
-| [class13](https://raghad497.github.io/reading-notes/class13)      | *thirteenth read* |
+| [class01](https://raghad497.github.io/reading-notes/class-01)      | *first read*       |
+| [class02](https://raghad497.github.io/reading-notes/class-02)   | *second read*        |
+| [class03](https://raghad497.github.io/reading-notes/class-03)      | *third read* |
+| [class04](https://raghad497.github.io/reading-notes/class-04)      | *fourth read* |
+| [class05](https://raghad497.github.io/reading-notes/class-05)      | *fifth read* |
+| [class06](https://raghad497.github.io/reading-notes/class-06)      | *sixth read* |
+| [class07](https://raghad497.github.io/reading-notes/class-07)      | *seventh read* |
+| [class08](https://raghad497.github.io/reading-notes/class-08)      | *eighth read* |
+| [class09](https://raghad497.github.io/reading-notes/class-09)      | *ninth read* |
+| [class10](https://raghad497.github.io/reading-notes/class-10)      | *tenth read* |
+| [class11](https://raghad497.github.io/reading-notes/class-11)      | *eleventh read* |
+| [class12](https://raghad497.github.io/reading-notes/class-12)      | *twelvth read* |
+| [class13](https://raghad497.github.io/reading-notes/class-13)      | *thirteenth read* |
