@@ -27,7 +27,7 @@
 
 | **My Files**      | **Content** |
 | -----------       | ----------- |
-| [class01](https://raghad497.github.io/reading-notes/201/class-01)      | *first read*       |
+| [class01](https://raghad497.github.io/reading-notes/201/class-01)      | *Introductory HTML and JavaScript*       |
 | [class02](https://raghad497.github.io/reading-notes/201/class-02)   | *second read*        |
 | [class03](https://raghad497.github.io/reading-notes/201/class-03)      | *third read* |
 | [class04](https://raghad497.github.io/reading-notes/201/class-04)      | *fourth read* |
