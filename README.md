@@ -33,7 +33,7 @@
 | [class04](https://raghad497.github.io/reading-notes/201/class-04)      | *HTML Links, CSS Layout, JS Functions* |
 | [class05](https://raghad497.github.io/reading-notes/201/class-05)      | *HTML Images; CSS Color & Text* |
 | [class06](https://raghad497.github.io/reading-notes/201/class-06)      | *JS Object Literals; The DOM* |
-| [class07](https://raghad497.github.io/reading-notes/201/class-07)      | *seventh read* |
+| [class07](https://raghad497.github.io/reading-notes/201/class-07)      | *HTML Tables; JS Constructor Functions* |
 | [class08](https://raghad497.github.io/reading-notes/201/class-08)      | *eighth read* |
 | [class09](https://raghad497.github.io/reading-notes/201/class-09)      | *ninth read* |
 | [class10](https://raghad497.github.io/reading-notes/201/class-10)      | *tenth read* |
