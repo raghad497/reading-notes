@@ -36,7 +36,7 @@
 | [class07](https://raghad497.github.io/reading-notes/201/class-07)      | *HTML Tables; JS Constructor Functions* |
 | [class08](https://raghad497.github.io/reading-notes/201/class-08)      | *More CSS Layout* |
 | [class09](https://raghad497.github.io/reading-notes/201/class-09)      | *Forms and Events* |
-| [class10](https://raghad497.github.io/reading-notes/201/class-10)      | *tenth read* |
+| [class10](https://raghad497.github.io/reading-notes/201/class-10)      | *JS Debugging* |
 | [class11](https://raghad497.github.io/reading-notes/201/class-11)      | *eleventh read* |
 | [class12](https://raghad497.github.io/reading-notes/201/class-12)      | *twelvth read* |
 | [class13](https://raghad497.github.io/reading-notes/201/class-13)      | *thirteenth read* |
