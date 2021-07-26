@@ -39,4 +39,4 @@
 | [class10](https://raghad497.github.io/reading-notes/201/class-10)      | *JS Debugging* |
 | [class11](https://raghad497.github.io/reading-notes/201/class-11)      | *Assorted Topics* |
 | [class12](https://raghad497.github.io/reading-notes/201/class-12)      | *Docs for the HTML Element & Chart.js* |
-| [class13](https://raghad497.github.io/reading-notes/201/class-13)      | *thirteenth read* |
+| [class13](https://raghad497.github.io/reading-notes/201/class-13)      | *Local Storage* |
